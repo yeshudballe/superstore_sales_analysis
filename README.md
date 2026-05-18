@@ -30,8 +30,8 @@ The goal of this project was to derive business insights related to sales perfor
 Used PivotTables to analyze:
 - Monthly sales trends
 - regional sales
-- Product sub-category performance
-- Regional sales analysis
+- sub categorical revenue
+- top 5 state wise sub categorical collection shares 
 
 ### 4. Data Visualization
 Created multiple visualizations including:
