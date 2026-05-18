@@ -29,7 +29,7 @@ The goal of this project was to derive business insights related to sales perfor
 ### 3. Data Analysis using PivotTables
 Used PivotTables to analyze:
 - Monthly sales trends
-- State-wise sales
+- regional sales
 - Product sub-category performance
 - Regional sales analysis
 
